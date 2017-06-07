@@ -1,0 +1,97 @@
+$date
+    Tue Nov 15 18:38:18 2016
+$end
+$version
+    MyHDL 1.0dev
+$end
+$timescale
+    1ns
+$end
+
+$scope module testStoreEnable $end
+$var reg 3 ! DWidth $end
+$var reg 4 " Store_E $end
+$var reg 2 # Datain $end
+$scope module dut $end
+$var reg 3 ! DWidth $end
+$var reg 4 " Store_E $end
+$var reg 2 # Datain $end
+$upscope $end
+$upscope $end
+
+$enddefinitions $end
+$dumpvars
+b000 !
+b0000 "
+b00 #
+$end
+b0001 "
+#5
+b010 !
+#10
+b111 !
+b01 #
+b0010 "
+#15
+b000 !
+b00 #
+b0001 "
+#20
+b110 !
+b10 #
+b0100 "
+#25
+b011 !
+b01 #
+b0010 "
+#30
+b111 !
+b10 #
+b0100 "
+#35
+b100 !
+b01 #
+b0010 "
+#40
+b011 !
+b00 #
+b0001 "
+#45
+b110 !
+b10 #
+b0100 "
+#50
+b010 !
+b11 #
+b1000 "
+#55
+b111 !
+b00 #
+b0001 "
+#60
+b000 !
+#65
+b001 !
+b11 #
+b1000 "
+#70
+b011 !
+b10 #
+b0100 "
+#75
+b11 #
+b1000 "
+#80
+b000 !
+#85
+b110 !
+#90
+b100 !
+b01 #
+b0010 "
+#95
+b101 !
+#100
+b000 !
+b11 #
+b1000 "

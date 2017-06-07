@@ -1,0 +1,20 @@
+Los assert del Mux fueron comentados por el momento, daban el siguiente error:
+TypeError: object of type 'int' has no len()
+
+Todos los test fueron renombrados a Test_vaina
+
+Se arreglaron errores de indentacion y sintaxis
+
+Se colocaron los @block en cada modulo (si, si tenian razon) y se cambiaron las simulaciones para que puedan funcionar con esto
+
+
+En el tope cambié la entrada de StoreEnbale de ALUOut[3:0] a ALUOut [2:0], cambien eso en el esquema
+
+Faltan cambiar algunas simulaciones que funcionaban sin el @block y las conversiones to verilog que tampoco funcionan con el @block
+
+
+
+
+
+
+

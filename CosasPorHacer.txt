@@ -1,0 +1,8 @@
+-Modulo BHW
+-Modulo BRAM
+-Modulo PC 
+-Simular la ALU
+-Simular el RegisterFiles
+-Terminar el Control Unit y Simularlo
+-Realizar las conexiones entre los componentes (una vez tengamos el esquematico final)
+a

@@ -1,0 +1,491 @@
+commit 678effb0ef5d3a52097e7ce4c473cd33a24345d1
+Author: gabrieloandco <gabrieloandco@gmail.com>
+Date:   Thu Oct 6 15:18:45 2016 -0400
+
+    agregando formato de test fixtures
+
+commit 7f45956b184dc8c30573dce688bb8129116be7ab
+Merge: de0e3f1 1724264
+Author: gabrieloandco <gabrieloandco@gmail.com>
+Date:   Thu Oct 6 14:58:38 2016 -0400
+
+    arreglando register.py
+
+commit de0e3f1e5dbe7979243f78c7caf85081c813f864
+Author: gabrieloandco <gabrieloandco@gmail.com>
+Date:   Thu Oct 6 14:55:53 2016 -0400
+
+    Agregando conversores y sus test fixture
+
+commit 172426407f1126d910d4aed3e98dc5e7610d7803
+Author: noyagabriel <gabriel_noya@hotmail.com>
+Date:   Thu Oct 6 13:59:59 2016 -0400
+
+    Update ControlUnit.py
+
+commit da079d3d21a8a464c537c18a0df140835830dca7
+Author: djav20 <djav20@users.noreply.github.com>
+Date:   Wed Oct 5 23:31:07 2016 -0400
+
+    Update ControlUnit.py
+
+commit b7033b99e5950d8886659804e1e97988cf91cd7d
+Author: noyagabriel <gabriel_noya@hotmail.com>
+Date:   Wed Oct 5 22:43:33 2016 -0400
+
+    Update ControlUnit.py
+
+commit 28866450b188c3f87c1dfdd1409cd1586c6acda6
+Author: noyagabriel <gabriel_noya@hotmail.com>
+Date:   Wed Oct 5 21:54:27 2016 -0400
+
+    Update ControlUnit.py
+
+commit a87e6a91036fe9e22244326aa37c66f5d1a0a205
+Author: noyagabriel <gabriel_noya@hotmail.com>
+Date:   Wed Oct 5 21:25:25 2016 -0400
+
+    Update ControlUnit.py
+
+commit 0e80592259d7bea2eb48a50c5865a5b0114c1073
+Author: noyagabriel <gabriel_noya@hotmail.com>
+Date:   Wed Oct 5 21:17:39 2016 -0400
+
+    Update ControlUnit.py
+
+commit 278ec18e2446b1378a10b896b36e54dceb13b83c
+Author: djav20 <djav20@users.noreply.github.com>
+Date:   Wed Oct 5 21:10:41 2016 -0400
+
+    Add files via upload
+
+commit f279d0504bb341f42a702ec9ba9ffdeaa72d7dad
+Author: noyagabriel <gabriel_noya@hotmail.com>
+Date:   Wed Oct 5 21:09:46 2016 -0400
+
+    Update ControlUnit.py
+
+commit 31008fdf314b43324071ae1d2d23edff494db5ba
+Author: djav20 <djav20@users.noreply.github.com>
+Date:   Wed Oct 5 21:07:21 2016 -0400
+
+    Update ControlUnit.py
+
+commit f65f08a738584d56186a8bcecba6272edcd15a71
+Author: noyagabriel <gabriel_noya@hotmail.com>
+Date:   Wed Oct 5 21:05:10 2016 -0400
+
+    Rename ControlUnit to ControlUnit.py
+
+commit 2b70d1902b226e6f46eb70dbaa8ac983ec621f7f
+Author: noyagabriel <gabriel_noya@hotmail.com>
+Date:   Wed Oct 5 21:04:48 2016 -0400
+
+    Create ControlUnit
+
+commit cbf981673a89001334317dc787164c8239378ada
+Author: noyagabriel <gabriel_noya@hotmail.com>
+Date:   Wed Oct 5 12:05:19 2016 -0400
+
+    Update ALU.py
+
+commit 7395fe4df95e64fb0df05206f118b4e33a75c48b
+Author: romero350 <12-10601@usb.ve>
+Date:   Wed Oct 5 11:24:47 2016 -0400
+
+    Update ALU.py
+
+commit 19874fc15a94edac92001fc818dede15b7a81110
+Author: chinch1 <nicolaandresb@hotmail.com>
+Date:   Wed Oct 5 11:21:32 2016 -0400
+
+    Update ALU.py
+
+commit fa82d271c746714eec2880c574e6896169419aa9
+Author: romero350 <12-10601@usb.ve>
+Date:   Wed Oct 5 11:01:20 2016 -0400
+
+    Update ALU.py
+
+commit 98a4b7b0f94e10bfb99434eb7f35c7d1b6c4dd20
+Author: romero350 <12-10601@usb.ve>
+Date:   Wed Oct 5 10:53:57 2016 -0400
+
+    Update ALU.py
+
+commit be618950eda498b39a781a1b749673bfbc1bd00b
+Author: romero350 <12-10601@usb.ve>
+Date:   Wed Oct 5 10:52:00 2016 -0400
+
+    Update ALU.py
+
+commit f4ddc425427b72ae78bbefac0f1740d7672b9c1b
+Author: romero350 <12-10601@usb.ve>
+Date:   Wed Oct 5 10:33:00 2016 -0400
+
+    Update ALU.py
+
+commit 335e43c36241d2a7b1c5e8d541ec38230719dfe5
+Author: Gabriel Luque <galuque@users.noreply.github.com>
+Date:   Tue Oct 4 20:35:07 2016 -0400
+
+    Delete Design and Implementation of 32 bit RISC Processor using Xilinx.pdf
+
+commit 090c01efcc9fea9723d766d1d0410afc9270cedb
+Author: Gabriel Luque <galuque@users.noreply.github.com>
+Date:   Tue Oct 4 20:35:00 2016 -0400
+
+    Delete Design and Implementation of a 32bit RISC Processor on Xilinx FPGA.pdf
+
+commit ba9f50455e7ac83adf3c5d6ec0b79d9f04c5af55
+Author: Gabriel Luque <galuque@users.noreply.github.com>
+Date:   Tue Oct 4 20:34:54 2016 -0400
+
+    Delete VLSI implementation of a High-performance 32-bit RISC Microprocessor.pdf
+
+commit 99493c09f0ce26004409a8578635a08de61102e8
+Author: Gabriel Luque <galuque@users.noreply.github.com>
+Date:   Tue Oct 4 20:34:44 2016 -0400
+
+    Delete The Design of a RISC Architecture.pdf
+
+commit 4a9a6db0067317ab0cd7e245e7aba18ed27e4254
+Author: Gabriel Luque <gldidonna@gmail.com>
+Date:   Tue Oct 4 20:32:02 2016 -0400
+
+    organizacion
+
+commit 34b62a2d2931eeaedac546c2f582b006d30b73db
+Author: gabrieloandco <gabrieloandco@gmail.com>
+Date:   Tue Oct 4 16:05:34 2016 -0400
+
+    Update Register.py
+
+commit 5e46e9506aea5b64ee65a88afc2b047fb8775ab1
+Merge: 4518588 c3c2ded
+Author: gabrieloandco <gabrieloandco@gmail.com>
+Date:   Tue Oct 4 16:02:01 2016 -0400
+
+    actualizando
+
+commit 45185886a989aec03ae0b6d707bb84b231ba83ec
+Author: gabrieloandco <gabrieloandco@gmail.com>
+Date:   Tue Oct 4 15:57:16 2016 -0400
+
+    Agregado comentarios a registro
+
+commit c3c2ded8217d2a36223045513eeff3c4c1480dd0
+Author: Gabriel Luque <gldidonna@gmail.com>
+Date:   Mon Oct 3 19:07:09 2016 -0400
+
+    Comentarios en register y algunas modificaciones
+
+commit 475433e17cb9295ee3acaeda0973b51aaa673162
+Merge: 3196c17 78fa340
+Author: gabrieloandco <gabrieloandco@gmail.com>
+Date:   Mon Oct 3 11:18:09 2016 -0400
+
+    Merge branch 'master' of https://github.com/galuque/Procesador-RISC-V
+
+commit 3196c177e3eca17918845836462be422dcddf4d4
+Author: gabrieloandco <gabrieloandco@gmail.com>
+Date:   Mon Oct 3 11:16:19 2016 -0400
+
+    actualizando register.py, listo para testear
+
+commit 78fa3405d1d1facfdb13c8bb4ad9d1581803f947
+Author: Gabriel Luque <gldidonna@gmail.com>
+Date:   Sun Oct 2 21:38:33 2016 -0400
+
+    alu.py con solo espacios
+
+commit 5ea6821e9d38c213567d0a087589af18d52b95c7
+Merge: bdde0f2 18f3cb9
+Author: Gabriel Luque <gldidonna@gmail.com>
+Date:   Sun Oct 2 21:09:04 2016 -0400
+
+    Merge branch 'master' of https://github.com/galuque/Procesador-RISC-V
+
+commit 18f3cb9dc39a9c7f921fd98fc7701c4004a97319
+Merge: d5aaf85 9e0af1a
+Author: gabrieloandco <gabrieloandco@gmail.com>
+Date:   Sun Oct 2 20:56:02 2016 -0400
+
+    actualizando Register.py
+
+commit d5aaf852924c4aaf5729636895aef3326cf4307a
+Author: gabrieloandco <gabrieloandco@gmail.com>
+Date:   Sun Oct 2 20:52:30 2016 -0400
+
+    actualizando Register.py
+
+commit bdde0f212d548f860e379e21f4ec93c54c704f8e
+Author: Gabriel Luque <gldidonna@gmail.com>
+Date:   Sun Oct 2 20:50:45 2016 -0400
+
+    arreglo de sintaxis y archivo de especificaaciones para risc v
+
+commit 9e0af1a34c0b247456c4a70b8e2b86dba027f2b2
+Author: Gabriel Luque <gldidonna@gmail.com>
+Date:   Sun Oct 2 19:29:08 2016 -0400
+
+    doc
+
+commit 56c6b20d6b7926fd7cd9ffb1921f518e5b2a4c17
+Author: gabrieloandco <gabrieloandco@gmail.com>
+Date:   Sun Oct 2 15:53:10 2016 -0400
+
+    agregado ejemplos procesadore
+
+commit 8e781fde3fe7bade2c52dd488f1c31c772be54db
+Author: gabrieloandco <gabrieloandco@gmail.com>
+Date:   Sun Oct 2 15:47:19 2016 -0400
+
+    agregando mas ejemplos
+
+commit 383c32b27fd121972640f420ce48033364f3335d
+Author: gabrieloandco <gabrieloandco@gmail.com>
+Date:   Sun Oct 2 15:45:58 2016 -0400
+
+    agregando ejempos
+
+commit d1508798833769b957d15a9ed061a805db5ebe8d
+Author: gabrieloandco <gabrieloandco@gmail.com>
+Date:   Sun Oct 2 15:32:09 2016 -0400
+
+    agregando ejemplos
+
+commit 9c324176555cff772cc41ff556c45606a06250a9
+Author: adrihigu <higuereyadrian@gmail.com>
+Date:   Sat Oct 1 17:16:46 2016 -0400
+
+    ALU v1
+    
+    Entradas
+    
+        clk: reloj del sistema
+        rst: reset del sistema (SIN USO)
+        inA: entrada A
+        inB: entrada B
+        op: selector de operación
+    
+    Salida
+        out: resultado de la operación
+
+commit 26273c93c96a198d3532f13e508fd49fa76f6357
+Author: adrihigu <higuereyadrian@gmail.com>
+Date:   Sat Oct 1 17:15:31 2016 -0400
+
+    Delete ALU.py
+
+commit f4fc26068db6ada44ecc24805ab072168e8e3ae3
+Author: adrihigu <higuereyadrian@gmail.com>
+Date:   Sat Oct 1 17:04:29 2016 -0400
+
+    Create ALU.py
+
+commit 7db50032371bef74a1d53c3b94a03c4c34728d96
+Merge: 936616e 60575af
+Author: Gabriel Luque <gldidonna@gmail.com>
+Date:   Thu Sep 29 19:46:05 2016 -0400
+
+    Merge branch 'master' of https://github.com/galuque/Procesador-RISC-V
+
+commit 936616e56fa44cc70c7eefb9df64fbba69704a67
+Author: Gabriel Luque <gldidonna@gmail.com>
+Date:   Thu Sep 29 19:36:57 2016 -0400
+
+    Cambio de nombre Hardware -> Core (ayudará luego)
+
+commit 60575af498f7067b034f6a267d92ccc8cc22a03a
+Author: gabrieloandco <gabrieloandco@gmail.com>
+Date:   Thu Sep 29 18:38:20 2016 -0400
+
+    agregando ejemplos de procesadores
+
+commit 7c09be506fc3b03655c4c53118e036aa78af9165
+Merge: d0152b6 a2cfe6c
+Author: gabrieloandco <gabrieloandco@gmail.com>
+Date:   Thu Sep 29 18:36:42 2016 -0400
+
+    Merge https://github.com/galuque/Procesador-RISC-V
+    
+    probando algo
+
+commit d0152b63eb0005e6b1a7f6df03cab19a8519270b
+Author: gabrieloandco <gabrieloandco@gmail.com>
+Date:   Thu Sep 29 18:34:27 2016 -0400
+
+    actualizado
+
+commit a2cfe6c75061a07d242df518e808af9af462a494
+Author: Gabriel Luque <gldidonna@gmail.com>
+Date:   Thu Sep 29 18:30:57 2016 -0400
+
+    organizacion
+
+commit 0085fcfdd50ddf4786ebaffe69837e60a51f804f
+Merge: 1f901b9 d91496b
+Author: gabrieloandco <gabrieloandco@gmail.com>
+Date:   Thu Sep 29 16:37:18 2016 -0400
+
+    Merge https://github.com/galuque/Procesador-RISC-V
+
+commit 1f901b9ba7bcd9ef33ff671c8db7a787e9d7c850
+Author: gabrieloandco <gabrieloandco@gmail.com>
+Date:   Thu Sep 29 16:30:39 2016 -0400
+
+    adding files
+
+commit d91496bb8f78218dcae95773757335844efeb89e
+Author: Gabriel Luque <galuque@users.noreply.github.com>
+Date:   Wed Sep 28 23:46:58 2016 -0400
+
+    Delete myhdl.pdf
+
+commit cd83743284029c99086988129f8f4444abc3607c
+Author: Gabriel Luque <galuque@users.noreply.github.com>
+Date:   Wed Sep 28 23:46:56 2016 -0400
+
+    Delete gtkwave.pdf
+
+commit d241733a9462d092f21d109cd70922e1eea3634b
+Author: Gabriel Luque <galuque@users.noreply.github.com>
+Date:   Wed Sep 28 23:46:54 2016 -0400
+
+    Delete github-git-cheat-sheet.pdf
+
+commit 2065c8bf212bf284f77c5cd10c39bc1aa88a82f0
+Author: Gabriel Luque <galuque@users.noreply.github.com>
+Date:   Wed Sep 28 23:46:52 2016 -0400
+
+    Delete dp1p2.pdf
+
+commit 511ffd2322dda83889bcbc1339904441a7ad9556
+Author: Gabriel Luque <galuque@users.noreply.github.com>
+Date:   Wed Sep 28 23:46:50 2016 -0400
+
+    Delete RISC.pdf
+
+commit 5ac7e4c2b3a00d5d31f51bcb6e658b6600a315f0
+Author: Gabriel Luque <galuque@users.noreply.github.com>
+Date:   Wed Sep 28 23:46:34 2016 -0400
+
+    Delete Design_and_Implementation_of_32_bit_RISC_Processor_using_Xilinx.pdf
+
+commit 6c4b139d999483ffa80f561f4c965d6547aa8bee
+Author: Gabriel Luque <galuque@users.noreply.github.com>
+Date:   Wed Sep 28 23:46:21 2016 -0400
+
+    Delete 10.1109@ICCCAS.2002.1179054.pdf
+
+commit 68dfa53a03e2af5a83a641727aa8e7026360bbbd
+Author: Gabriel Luque <gldidonna@gmail.com>
+Date:   Wed Sep 28 23:34:16 2016 -0400
+
+    Revert "..."
+    
+    This reverts commit a1f27f5752157c4c3731e152faec313218fce93a.
+
+commit a1f27f5752157c4c3731e152faec313218fce93a
+Author: Gabriel Luque <gldidonna@gmail.com>
+Date:   Wed Sep 28 23:28:09 2016 -0400
+
+    ...
+
+commit 46e99b1be0d785f618f441710d13befa87f42546
+Author: Gabriel Luque <gldidonna@gmail.com>
+Date:   Wed Sep 28 23:25:24 2016 -0400
+
+    "nuevos nombes"
+
+commit 7e983cb680cff56eaf34270d3289e5fb89d4cd00
+Author: Gabriel Luque <gldidonna@gmail.com>
+Date:   Wed Sep 28 21:39:28 2016 -0400
+
+    update readme
+
+commit 585dd0d6a26124a75a09b69cfb4a7f120a2a1ad9
+Author: Gabriel Luque <gldidonna@gmail.com>
+Date:   Wed Sep 28 21:26:40 2016 -0400
+
+    nueva organizacion
+
+commit 769a7314aa94c10ee6c36909481d5329f462dc73
+Author: Gabriel Luque <gldidonna@gmail.com>
+Date:   Wed Sep 28 21:19:06 2016 -0400
+
+    update
+
+commit 82f9f66bc27aa578797c51e7956ebc263824135e
+Merge: 4d96844 a7ab8ea
+Author: Gabriel Luque <gldidonna@gmail.com>
+Date:   Wed Sep 28 21:12:32 2016 -0400
+
+    Merge https://github.com/galuque/Procesador-RISC-V
+
+commit a7ab8eae66a588155f2ce434b50d51d77821a809
+Author: Gabriel Luque <galuque@users.noreply.github.com>
+Date:   Wed Sep 28 21:05:11 2016 -0400
+
+    Delete Computer Organization and Design. The Hardware Software Interface - P & H.pdf
+
+commit 6c0d5783ec3dd689f34b5150295ea5f2e0ddaf41
+Author: Gabriel Luque <galuque@users.noreply.github.com>
+Date:   Wed Sep 28 21:03:24 2016 -0400
+
+    Update README.md
+
+commit 4d96844353b551744859befe8be6b9d3559774c9
+Author: Gabriel Luque <gldidonna@gmail.com>
+Date:   Wed Sep 28 20:45:45 2016 -0400
+
+    update
+
+commit d57bec9a62887e1357f7d672bb0b768947232a20
+Author: gabrieloandco <gabrieloandco@gmail.com>
+Date:   Wed Sep 28 17:33:08 2016 -0400
+
+    Initial commit
+
+commit 8e4145611f5bb1f8edd3360ec08f2137f5f36824
+Author: Gabriel Luque <galuque@users.noreply.github.com>
+Date:   Wed Sep 28 11:15:00 2016 -0400
+
+    Agregados manuales de MyHDL y GTKwave
+
+commit 730518d12d269b963c91fefee048dbaf09dc6885
+Author: Gabriel Luque <galuque@users.noreply.github.com>
+Date:   Wed Sep 28 11:11:58 2016 -0400
+
+    Update README.md
+
+commit a5c4e9e0c8598c44f99c3e066f1d005df6507147
+Author: Gabriel Luque <galuque@users.noreply.github.com>
+Date:   Wed Sep 28 10:11:27 2016 -0400
+
+    Papers de Implementación de procesadores RISC
+
+commit 203617900780bc2c86e733b1cdbafa2f739f1d74
+Author: Gabriel Luque <gldidonna@gmail.com>
+Date:   Wed Sep 21 23:06:29 2016 -0400
+
+    typo fix
+
+commit fb01a0d0d2bddcf63e7d9450d494c8743a5a57e9
+Author: Gabriel Luque <gldidonna@gmail.com>
+Date:   Wed Sep 21 22:00:55 2016 -0400
+
+    nueva carpeta
+
+commit 24d969439f1836260c3a8eb3fdf9d3e9e3815b3f
+Author: Gabriel Luque <galuque@users.noreply.github.com>
+Date:   Wed Sep 21 21:28:29 2016 -0400
+
+    Update README.md
+
+commit aa6a19114d8d5fb4f6c1a5a44ec3f396beb16357
+Author: Gabriel Luque <galuque@users.noreply.github.com>
+Date:   Wed Sep 21 21:18:03 2016 -0400
+
+    Initial commit

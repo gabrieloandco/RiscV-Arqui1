@@ -1,0 +1,20 @@
+Sintetizan:
+ADD
+ADD_4
+AND
+BHW
+MBR
+Mux2
+Mux3
+PC
+Store Enable
+Register File
+ALU
+
+
+Warnings:
+ConvInst ( Latches, se arregla inicializando a 0 las otras señales que no se usan en los casos del if)
+Mux1 (Latches)
+Mux4 (in1_Mux4[0] is never used)
+
+
